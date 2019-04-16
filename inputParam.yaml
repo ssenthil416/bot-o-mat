@@ -1,0 +1,26 @@
+# Enter number of Rotbot
+NumOfRobot: 12
+
+# Type of Robot are : [Unipedal Bipedal Quadrupedal Arachnid Radial Aeronautical]
+# Enter Robot Name and Type like :: Larry:Bipedal
+RobotData:
+  - Larry:Bipedal
+  - snss:Radial
+  - chris:Unipedal
+  - chad:Aeronautical
+  - ron:Arachnid
+  - david:Radial
+  - andrew:Bipedal
+  - fox:Quadrupedal
+  - mook:Unipedal
+  - kavi:Quadrupedal
+  - anitha:Arachnid
+  - sow:Aeronautical
+
+
+
+
+# Enter User Task like "Description":ETA" were ETA need to be integer
+UserTask:
+#  - "My Task1:100"
+#  - "My Task2:100"
